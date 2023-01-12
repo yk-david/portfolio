@@ -1,0 +1,115 @@
+/* https://coolors.co/palette/335c67-fff3b0-e09f3e-9e2a2b-540b0e */
+
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px; 
+}
+
+/* Colors ************************************************************************************************************ */
+
+.colors { 
+    border: 2px solid darkgray;
+    width: auto;
+    padding: 5px 10px; 
+}
+
+.color1, .color2, .color3, .color4, .color5 {
+    display: inline-block;
+    margin: 20px auto;
+    border: 1px transparent solid;
+    width: 200px;
+    height: 70px;
+    padding: 20px 20px;
+    text-align: center;
+} 
+
+.color1 {
+    color: white;
+    background-color: #335C67;
+    
+}
+
+.color2 {
+    color: black;
+    background-color: #FFF3B0;
+    
+}
+
+.color3 {
+    color: black;
+    background-color: #E09F3E;
+    
+}
+
+.color4 {
+    color: white;
+    background-color: #9E2A2B;
+    
+}
+
+.color5 {
+    color: white;
+    background-color: #540B0E;
+    
+}
+
+
+/* Fonts ************************************************************************************************************ */
+
+
+.fonts { 
+    border: 2px solid darkgray;
+    width: auto;
+    padding: 5px 10px; 
+    margin-top: 10px;
+}
+
+.row div {
+    display: inline-block;
+}
+
+.font1 {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.font2 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.font3 {
+    font-family: 'Noto Serif Toto', serif;
+}
+
+.font-name {
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+
+/* Text Styles ************************************************************************************************************ */
+
+.text-styles { 
+    border: 2px solid darkgray;
+    width: auto;
+    padding: 5px 10px; 
+    margin-top: 10px;
+}
+
+.text-styles h1 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.h2 h2 {
+    font-weight: normal;
+    font-size: 23px;
+}
